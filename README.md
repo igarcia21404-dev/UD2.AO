@@ -1,7 +1,19 @@
-# Tasca 2.A — Part Linux
+# UD2.AO — Activitats d'ofimàtica
 
-Branca creada des del commit original `c54fbdb`; la branca `main` i el treball original no s'han modificat.
+Repositori de treball de la unitat d'ofimàtica. La branca de lliurament Linux és **`linux-entrega-rehecha`**.
 
-Conté materials editables per als exercicis Linux 1, 2, 3, 4, 7 i 8. Els fitxers HTML es poden obrir a LibreOffice Writer o WPS Writer i desar en ODT/DOCX. Les captures reals, la revisió dins les MV, la taula de la Tasca 1.A i les dades reals per a combinar correspondència s'han de completar a l'ordinador; no s'han inventat.
+## Exercici 3 — Plantilles administratives amb LibreOffice Writer
+A la carpeta [Ubuntu/LibreOffice/Exercici 3](Ubuntu/LibreOffice/Exercici%203/) hi ha sis plantilles en català:
+- Anunci de matrícula de l'Escola Municipal de Maó.
+- Carta de sol·licitud de dues multifuncions a Xerox Menorca.
+- Certificat d'estudis de 1r SMX.
+- Circular sobre el termini de pagament de l'IBI.
+- Citació per a signar documentació del model 061.
+- Contracte privat de compravenda d'habitatge.
 
-Clonar: `git clone -b linux-entrega-rehecha https://github.com/igarcia21404-dev/UD2.AO.git`
+**Lliurament en ODT:** descarregau [Plantilles_Administratives_UD2AO.zip](Ubuntu/LibreOffice/Exercici%203/Plantilles_Administratives_UD2AO.zip), que conté els sis documents OpenDocument Text. Els fitxers `.fodt` de la mateixa carpeta són les versions planes editables.
+
+Consulteu el README de l'exercici per veure els criteris de format, els camps que cal personalitzar i les comprovacions finals.
+
+## Altres exercicis
+La resta de carpetes conserven els materials dels exercicis Linux i WPS.
