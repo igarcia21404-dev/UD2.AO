@@ -1,33 +1,39 @@
-# Exercici 3 — Sis plantilles administratives (LibreOffice)
+# Exercici 3 — Sis plantilles administratives (LibreOffice Writer)
 
-Sis documents en català per a l’activitat de processadors de text. Els fitxers **.fodt** són documents OpenDocument Flat XML editables amb LibreOffice Writer. Obriu-los i feu **Fitxer → Anomena i desa… → Text ODF (.odt)** per lliurar-los en format ODT.
+## Lliurament
+- **[Plantilles_Administratives_UD2AO.zip](Plantilles_Administratives_UD2AO.zip)**: sis documents individuals en format **.odt** (OpenDocument Text), preparats per obrir i editar amb LibreOffice Writer.
+- Sis fitxers **.fodt**: versions Flat OpenDocument XML editables directament amb Writer.
+- `plantilles-anunci-carta-certificat-circular-citacio-contracte.md`: contingut textual de referència.
 
 ## Documents
-1. **Anunci** — Ajuntament de Maó: matrícula a ceràmica, música i dibuix.
-2. **Carta** — IES Joan Ramis i Ramis: petició de pressupost/comanda de dues multifuncions a Xerox Menorca.
-3. **Certificat** — acreditació acadèmica de 1r SMX.
-4. **Circular** — Servei de Recaptació: termini d’abril per al rebut de l’IBI.
-5. **Citació** — compareixença per signar document del model 061.
-6. **Contracte** — model didàctic de compravenda d’habitatge.
+1. **Anunci** — Ajuntament de Maó: obertura de matrícula per a ceràmica, música i dibuix.
+2. **Carta** — IES Joan Ramis i Ramis: sol·licitud de pressupost i comanda de dues multifuncions a Xerox Menorca.
+3. **Certificat** — acreditació de matrícula a 1r del cicle de Sistemes Microinformàtics i Xarxes (SMX).
+4. **Circular** — Servei de Recaptació de l'Ajuntament de Maó: recordatori del termini de pagament de l'IBI.
+5. **Citació** — compareixença per signar documentació necessària per tramitar el model 061.
+6. **Contracte** — model de contracte privat de compravenda d'habitatge.
 
-## Format i criteris
-- Paper A4 vertical; marges aproximats de 2,16 cm als laterals i 1,83 cm superior/inferior.
-- Tipografia Liberation Sans, cos 10,5 pt, títols 25 pt, jerarquia cromàtica diferent per document.
-- Paràgrafs justificats, interlineat 120%, títols i seccions destacats, peu de pàgina.
-- Camps entre claudàtors per completar dades que no s’han proporcionat.
+## Disseny aplicat
+- Pàgina A4 vertical, marges aproximats de 2,16 cm als laterals i 1,83 cm a dalt i a baix.
+- Tipografia Liberation Sans; cos 10,5 pt, títols 25 pt i subtítols 11 pt.
+- Colors d'accent diferenciats per document; jerarquia de títols i seccions.
+- Paràgrafs justificats, interlineat 120%, espaiat entre paràgrafs i blocs destacats.
+- Peu de pàgina institucional, camps editables entre claudàtors i estructura específica de cada document.
+- El contracte incorpora clàusules numerades; la citació separa dia, hora i lloc; la circular destaca el venciment; el certificat reserva espai de signatura.
 
-## Revisió a LibreOffice (Linux)
-1. Obrir cada .fodt amb LibreOffice Writer i revisar salts de pàgina i alineacions.
-2. Activar **Eines → Ortografia** (F7) i seleccionar català com a llengua del text.
-3. Si no hi ha diccionari català: **Eines → Llengua → Més diccionaris en línia** o instal·lar el paquet de diccionaris català de la distribució; reiniciar LibreOffice i tornar a revisar.
-4. Completar els camps entre claudàtors, revisar les dades i desar com a .odt.
+## Revisió a Linux amb LibreOffice
+1. Obrir els fitxers `.odt` o `.fodt` amb **LibreOffice Writer**.
+2. Seleccionar el text i establir **Català** a **Eines → Llengua**; executar **Eines → Ortografia** o prémer **F7**.
+3. Si falta el diccionari català, instal·lar el paquet de diccionaris català de la distribució Linux o afegir-lo des de les opcions de llengua de LibreOffice; reiniciar Writer i repetir la revisió.
+4. Revisar salts de pàgina, marges, peu de pàgina i camps editables; completar les dades personals/institucionals abans del lliurament.
 
 ## Notes de rigor
-- Les dates, terminis, imports, adreces i noms no facilitats s’han deixat com a camps editables o s’han identificat com a dades de mostra.
-- El certificat és un model i només és vàlid amb dades verificades, signatura i segell del centre.
-- La citació i el model 061 són exercicis acadèmics, no notificacions oficials.
-- El contracte és orientatiu i requereix revisió jurídica/notarial abans de qualsevol ús real.
-- La data límit de l’IBI (30 d’abril de 2027) és un exemple de maquetació: confirmeu el calendari tributari oficial abans d’utilitzar-lo.
+- Els camps entre claudàtors indiquen dades que no s'han facilitat i s'han de completar.
+- L'anunci no inventa dates ni taxes municipals: remet als canals oficials per confirmar el període i les condicions.
+- El termini de la circular és un camp orientatiu; cal substituir-lo pel calendari fiscal oficial de l'any corresponent.
+- El certificat és un model acadèmic: només el centre pot validar-lo, signar-lo i segellar-lo.
+- La citació del model 061 és un exercici didàctic, no una notificació oficial.
+- El contracte és una plantilla educativa i requereix revisió jurídica/notarial abans de qualsevol operació real.
 
-## Referència de l’activitat
-Plantilles de les pàgines 89–94 del material indicat a l’enunciat.
+## Referència
+Models de documents administratius de les pàgines 89–94 del material indicat a l'enunciat.
