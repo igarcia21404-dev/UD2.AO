@@ -12,9 +12,12 @@ git clone -b linux-entrega-rehecha https://github.com/igarcia21404-dev/UD2.AO.gi
 ## Exercici 4 — WPS Office (7 plantilles .docx)
 [Ubuntu/WPS Office/Exercici 4](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Ubuntu/WPS%20Office/Exercici%204)
 
-## Exercici 5 — OpenOffice Windows (importació/exportació)
+## Exercici 5 — OpenOffice Windows
 [Windows/OpenOffice/Exercici5](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Windows/OpenOffice/Exercici5)
 
-Plantilles de l’Exercici 3 convertides a .odt / .doc / .docx / .pdf
+## Exercici 6 — Microsoft Office Windows
+[Windows/MicrosoftOffice/Exercici6](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Windows/MicrosoftOffice/Exercici6)
+
+Plantilles de l’Exercici 4 convertides a .doc / .odt / .pdf
 
 **Enllaç repositori remot:** https://github.com/igarcia21404-dev/UD2.AO
