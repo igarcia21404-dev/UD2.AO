@@ -1,19 +1,27 @@
-# UD2.AO — Activitats d'ofimàtica
+# UD2.AO — Plantilles administratives (LibreOffice)
 
-Repositori de treball de la unitat d'ofimàtica. La branca de lliurament Linux és **`linux-entrega-rehecha`**.
+Repositori amb les sis plantilles de l'**Exercici 3** en format OpenDocument per a LibreOffice Writer.
 
-## Exercici 3 — Plantilles administratives amb LibreOffice Writer
-A la carpeta [Ubuntu/LibreOffice/Exercici 3](Ubuntu/LibreOffice/Exercici%203/) hi ha sis plantilles en català:
-- Anunci de matrícula de l'Escola Municipal de Maó.
-- Carta de sol·licitud de dues multifuncions a Xerox Menorca.
-- Certificat d'estudis de 1r SMX.
-- Circular sobre el termini de pagament de l'IBI.
-- Citació per a signar documentació del model 061.
-- Contracte privat de compravenda d'habitatge.
+## Contingut
 
-**Lliurament en ODT:** descarregau [Plantilles_Administratives_UD2AO.zip](Ubuntu/LibreOffice/Exercici%203/Plantilles_Administratives_UD2AO.zip), que conté els sis documents OpenDocument Text. Els fitxers `.fodt` de la mateixa carpeta són les versions planes editables.
+Carpeta: [Ubuntu/LibreOffice/Exercici 3](Ubuntu/LibreOffice/Exercici%203/)
 
-Consulteu el README de l'exercici per veure els criteris de format, els camps que cal personalitzar i les comprovacions finals.
+1. **Anunci** — Ajuntament de Maó: obertura del termini de matriculació (Ceràmica, Música, Dibuix).
+2. **Carta** — IES Joan Ramis i Ramis sol·licita 2 multifuncions a Xerox de Menorca.
+3. **Certificat** — Certificació d'estudis de 1r SMX.
+4. **Circular** — Servei de Recaptació: termini de pagament de l'IBI.
+5. **Citació** — Compareixença per signar documentació del Model 061.
+6. **Contracte** — Model de compravenda d'habitatge.
 
-## Altres exercicis
-La resta de carpetes conserven els materials dels exercicis Linux i WPS.
+### Formats
+- Fitxers **.fodt** (editables directament)
+- **Plantilles_Administratives_UD2AO.zip** amb els sis documents en **.odt**
+
+Obriu amb LibreOffice Writer. Per desar definitivament: **Fitxer → Anomena i desa → Text ODF (.odt)**.
+
+### Estils i revisió
+- Pàgina A4, marges ~2 cm, tipografia Liberation Sans, títols en color, paràgrafs justificats, interlineat 120%.
+- Capçaleres/peus de pàgina.
+- Revisió ortogràfica en català (Eines → Llengua / F7). Instal·lar diccionari català si cal.
+
+Consulteu el README de la carpeta de l'exercici per a més detalls.
