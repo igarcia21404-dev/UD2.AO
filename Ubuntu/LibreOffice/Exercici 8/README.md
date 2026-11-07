@@ -1,3 +1,0 @@
-# Exercici 8 — Combinació de correspondència
-
-Creeu el diploma base a partir del disseny de l’exercici 4.6. Creeu un full de càlcul amb una fila per company/a i camps Nom i Cognoms. No s’han inventat dades personals. A LibreOffice: Eines → Auxiliar de combinació de correspondència → seleccionar document base → llista d’adreces → assignar camps → inserir camps Nom/Cognoms → generar documents individuals → desar els diplomes. El professor ha de comprovar el funcionament real.
