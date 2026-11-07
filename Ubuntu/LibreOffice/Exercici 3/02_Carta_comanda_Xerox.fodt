@@ -12,14 +12,14 @@
 <style:style style:name="right" style:family="paragraph"><style:paragraph-properties fo:text-align="end" fo:margin-top="0.18in"/><style:text-properties fo:font-size="10pt"/></style:style>
 <style:style style:name="center" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in"/><style:text-properties fo:font-size="10pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
 </office:styles>
-<office:automatic-styles><style:page-layout style:name="Page" style:family="page-layout"><style:page-layout-properties fo:page-width="8.27in" fo:page-height="11.69in" fo:margin-top="0.78in" fo:margin-bottom="0.78in" fo:margin-left="0.85in" fo:margin-right="0.85in" style:print-orientation="portrait"/><style:header-style/><style:footer-style/></style:page-layout-properties></style:page-layout></office:automatic-styles>
+<office:automatic-styles><style:page-layout style:name="Page" style:family="page-layout"><style:page-layout-properties fo:page-width="8.27in" fo:page-height="11.69in" fo:margin-top="0.78in" fo:margin-bottom="0.78in" fo:margin-left="0.85in" fo:margin-right="0.85in" style:print-orientation="portrait"/><style:header-style/><style:footer-style/></style:page-layout></office:automatic-styles>
 <office:master-styles><style:master-page style:name="Standard" style:page-layout-name="Page"><style:header><text:p text:style-name="small">IES JOAN RAMIS I RAMIS · PLANTILLES ADMINISTRATIVES</text:p></style:header><style:footer><text:p text:style-name="small">Model editable · Revisau les dades entre claudàtors abans d’imprimir</text:p></style:footer></style:master-page></office:master-styles>
 <office:body><office:text><text:p text:style-name="Title">CARTA COMERCIAL</text:p><text:p text:style-name="Sub">SOL·LICITUD DE COMANDA · DUES MULTIFUNCIONS</text:p><text:p text:style-name="section">IES JOAN RAMIS I RAMIS</text:p>
 <text:p text:style-name="small">[Adreça del centre] · Maó (Menorca) · [Telèfon] · [Correu electrònic]</text:p>
 <text:p text:style-name="body">A l’atenció del departament comercial</text:p>
 <text:p text:style-name="body">Xerox Menorca</text:p>
 <text:p text:style-name="body">[Adreça de l’empresa]</text:p>
-<text:p text:style-name="section">Assumpte: comanda de dues impressores multifunció</text:p>
+<text:p text:style-name="section">Assumpte: comanda de dues màquines multifunció</text:p>
 <text:p text:style-name="body">Benvolguts senyors,</text:p>
 <text:p text:style-name="body">Ens adreçam a vostès en nom de l’IES Joan Ramis i Ramis per sol·licitar una oferta i tramitar, si escau, la comanda de dues màquines multifunció destinades als serveis del centre.</text:p>
 <text:p text:style-name="body">Els agrairíem que ens fessin arribar una proposta detallada que indiqui el model i les característiques tècniques, el preu unitari i total (amb imposts), les condicions de lliurament i instal·lació, la garantia, el manteniment i les formes de pagament.</text:p>
