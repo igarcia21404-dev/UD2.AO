@@ -1,18 +1,21 @@
 # Exercici 3 — Plantilles administratives
 
-Sis models editables per a LibreOffice Writer: anunci, carta comercial, certificat, circular, citació i contracte de compravenda.
+**Els fitxers complets (FODT + ODT en ZIP) es troben a la branca `linux-entrega-rehecha`.**
 
-## Disseny
-Originals FODT (OpenDocument Flat XML), obren directament amb LibreOffice Writer. Pàgina A4, marges de 2–2,2 cm, capçalera i peu, tipografies Liberation Sans/Serif, títols blaus, subtítols jerarquitzats, alineació justificada i interlineat del 125%. Emplenau els camps entre claudàtors.
+Anau a:
+https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Ubuntu/LibreOffice/Exercici%203
 
-## Desar en ODT
-Obriu cada fitxer amb Writer i triau Fitxer → Anomena i desa → Text ODF (.odt).
+O cloneu:
+```bash
+git clone -b linux-entrega-rehecha https://github.com/igarcia21404-dev/UD2.AO.git
+```
 
-## Ortografia i diccionaris
-Definiu el català com a llengua del text i executau F7. Si el diccionari català no hi és, instal·lau-lo des del Gestor d’extensions i reinicieu LibreOffice. Revisau noms propis i dades específiques.
-
-## Abans de lliurar
-- A la circular, substituïu el 30 d’abril orientatiu per les dates oficials del calendari fiscal.
-- A la citació, concretau dia, hora, oficina i documentació.
-- El contracte és didàctic i no s’ha d’utilitzar com a contracte legal sense revisió professional.
-- Els models no són notificacions oficials ni certificats efectivament emesos.
+Allà hi ha:
+- 01_Anunci_matricula_escola_municipal.fodt
+- 02_Carta_comanda_Xerox.fodt
+- 03_Certificat_estudis_1r_SMX.fodt
+- 04_Circular_rebut_IBI.fodt
+- 05_Citacio_agencia_tributaria_model_061.fodt
+- 06_Contracte_compravenda_habitatge.fodt
+- Plantilles_Administratives_UD2AO.zip (els .odt)
+- README complet amb estils, ortografia i notes
