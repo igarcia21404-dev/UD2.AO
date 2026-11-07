@@ -1,20 +1,23 @@
-# UD2.AO — Plantilles administratives (LibreOffice)
+# UD2.AO — Plantilles ofimàtiques
 
-**Branca amb tot el contingut:** [`linux-entrega-rehecha`](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha)
+**Branca completa:** [`linux-entrega-rehecha`](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha)
 
 ```bash
 git clone -b linux-entrega-rehecha https://github.com/igarcia21404-dev/UD2.AO.git
 ```
 
-## Exercici 3 — Sis plantilles
+## Exercici 3 — LibreOffice (6 plantilles)
+[Ubuntu/LibreOffice/Exercici 3](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Ubuntu/LibreOffice/Exercici%203)
 
-Carpeta: [Ubuntu/LibreOffice/Exercici 3](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Ubuntu/LibreOffice/Exercici%203)
+Anunci, Carta, Certificat, Circular, Citació, Contracte
 
-1. **Anunci** — Ajuntament de Maó (matrícula Ceràmica, Música, Dibuix)
-2. **Carta** — Comanda de 2 multifuncions a Xerox Menorca (IES Joan Ramis i Ramis)
-3. **Certificat** — Estudis de 1r SMX
-4. **Circular** — Termini de pagament de l'IBI
-5. **Citació** — Model 061 (Hisenda)
-6. **Contracte** — Compravenda d'habitatge
+## Exercici 4 — WPS Office (7 plantilles .docx)
+[Ubuntu/WPS Office/Exercici 4](https://github.com/igarcia21404-dev/UD2.AO/tree/linux-entrega-rehecha/Ubuntu/WPS%20Office/Exercici%204)
 
-Fitxers `.fodt` + ZIP amb els `.odt`. Obriu amb LibreOffice Writer.
+1. Convocatòria de reunió (Club Marítim de Maó)
+2. Curriculum vitae modern
+3. Factura
+4. Sol·licitud / Instància
+5. Document dues columnes (diari)
+6. Diploma millor alumne/a 1r SMX
+7. Document amb imatge de fons
