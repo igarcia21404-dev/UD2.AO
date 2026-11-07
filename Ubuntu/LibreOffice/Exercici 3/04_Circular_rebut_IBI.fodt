@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:font-face-decls><style:font-face style:name="Liberation Sans" svg:font-family="Liberation Sans"/><style:font-face style:name="Liberation Serif" svg:font-family="Liberation Serif"/></office:font-face-decls>
+<office:styles>
+<style:default-style style:family="paragraph"><style:paragraph-properties fo:margin-bottom="0.12in" fo:line-height="125%"/><style:text-properties style:font-name="Liberation Sans" fo:font-size="10.5pt" fo:color="#263238"/></style:default-style>
+<style:style style:name="Title" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in" fo:margin-bottom="0.04in"/><style:text-properties style:font-name="Liberation Serif" fo:font-size="25pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+<style:style style:name="Sub" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-bottom="0.32in"/><style:text-properties fo:font-size="10pt" fo:font-weight="bold" fo:letter-spacing="0.8pt" fo:color="#617780"/></style:style>
+<style:style style:name="body" style:family="paragraph"><style:paragraph-properties fo:text-align="justify" fo:margin-bottom="0.13in"/><style:text-properties fo:font-size="10.5pt"/></style:style>
+<style:style style:name="section" style:family="paragraph"><style:paragraph-properties fo:margin-top="0.12in" fo:margin-bottom="0.08in"/><style:text-properties fo:font-size="10.5pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+<style:style style:name="call" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in" fo:margin-bottom="0.16in" fo:background-color="#EAF2F5" fo:padding="0.10in"/><style:text-properties fo:font-size="12pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+<style:style style:name="small" style:family="paragraph"><style:paragraph-properties fo:margin-top="0.08in"/><style:text-properties fo:font-size="8.5pt" fo:color="#68777C" fo:font-style="italic"/></style:style>
+<style:style style:name="right" style:family="paragraph"><style:paragraph-properties fo:text-align="end" fo:margin-top="0.18in"/><style:text-properties fo:font-size="10pt"/></style:style>
+<style:style style:name="center" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in"/><style:text-properties fo:font-size="10pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+</office:styles>
+<office:automatic-styles><style:page-layout style:name="Page" style:family="page-layout"><style:page-layout-properties fo:page-width="8.27in" fo:page-height="11.69in" fo:margin-top="0.78in" fo:margin-bottom="0.78in" fo:margin-left="0.85in" fo:margin-right="0.85in" style:print-orientation="portrait"/><style:header-style/><style:footer-style/></style:page-layout-properties></style:page-layout></office:automatic-styles>
+<office:master-styles><style:master-page style:name="Standard" style:page-layout-name="Page"><style:header><text:p text:style-name="small">IES JOAN RAMIS I RAMIS · PLANTILLES ADMINISTRATIVES</text:p></style:header><style:footer><text:p text:style-name="small">Model editable · Revisau les dades entre claudàtors abans d’imprimir</text:p></style:footer></style:master-page></office:master-styles>
+<office:body><office:text><text:p text:style-name="Title">CIRCULAR INFORMATIVA</text:p><text:p text:style-name="Sub">TERMINI PER AL PAGAMENT DEL REBUT DE L’IBI</text:p><text:p text:style-name="section">SERVEI DE RECAPTACIÓ · AJUNTAMENT DE MAÓ</text:p>
+<text:p text:style-name="body">A les persones contribuents destinatàries d’aquesta comunicació</text:p>
+<text:p text:style-name="section">Assumpte: període de pagament de l’Impost sobre Béns Immobles (IBI)</text:p>
+<text:p text:style-name="body">Benvolguts contribuents,</text:p>
+<text:p text:style-name="body">Us informam que el termini indicat en aquesta circular per efectuar el pagament del rebut de l’Impost sobre Béns Immobles (IBI) finalitza el dia 30 d’abril de [any].</text:p>
+<text:p text:style-name="body">Per evitar incidències, comprovau les dades del rebut i efectuau el pagament dins el període voluntari pels mitjans habilitats per l’Ajuntament. Si necessitau informació sobre l’import, les domiciliacions o els canals de pagament, adreçau-vos al Servei de Recaptació municipal.</text:p>
+<text:p text:style-name="small">Aquesta circular és un model acadèmic: les dates, els canals i les condicions definitives s’han de verificar amb l’Ajuntament abans de distribuir-la.</text:p>
+<text:p text:style-name="body">Gràcies per la vostra col·laboració.</text:p>
+<text:p text:style-name="right">Maó, [data d’emissió]</text:p>
+<text:p text:style-name="center">AJUNTAMENT DE MAÓ · Servei de Recaptació</text:p></office:text></office:body></office:document>
