@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" office:version="1.3">
+<office:font-face-decls><style:font-face style:name="Liberation Sans" svg:font-family="Liberation Sans"/><style:font-face style:name="Liberation Serif" svg:font-family="Liberation Serif"/></office:font-face-decls>
+<office:styles>
+<style:default-style style:family="paragraph"><style:paragraph-properties fo:margin-bottom="0.12in" fo:line-height="125%"/><style:text-properties style:font-name="Liberation Sans" fo:font-size="10.5pt" fo:color="#263238"/></style:default-style>
+<style:style style:name="Title" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in" fo:margin-bottom="0.04in"/><style:text-properties style:font-name="Liberation Serif" fo:font-size="25pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+<style:style style:name="Sub" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-bottom="0.32in"/><style:text-properties fo:font-size="10pt" fo:font-weight="bold" fo:letter-spacing="0.8pt" fo:color="#617780"/></style:style>
+<style:style style:name="body" style:family="paragraph"><style:paragraph-properties fo:text-align="justify" fo:margin-bottom="0.13in"/><style:text-properties fo:font-size="10.5pt"/></style:style>
+<style:style style:name="section" style:family="paragraph"><style:paragraph-properties fo:margin-top="0.12in" fo:margin-bottom="0.08in"/><style:text-properties fo:font-size="10.5pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+<style:style style:name="call" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in" fo:margin-bottom="0.16in" fo:background-color="#EAF2F5" fo:padding="0.10in"/><style:text-properties fo:font-size="12pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+<style:style style:name="small" style:family="paragraph"><style:paragraph-properties fo:margin-top="0.08in"/><style:text-properties fo:font-size="8.5pt" fo:color="#68777C" fo:font-style="italic"/></style:style>
+<style:style style:name="right" style:family="paragraph"><style:paragraph-properties fo:text-align="end" fo:margin-top="0.18in"/><style:text-properties fo:font-size="10pt"/></style:style>
+<style:style style:name="center" style:family="paragraph"><style:paragraph-properties fo:text-align="center" fo:margin-top="0.10in"/><style:text-properties fo:font-size="10pt" fo:font-weight="bold" fo:color="#145A72"/></style:style>
+</office:styles>
+<office:automatic-styles><style:page-layout style:name="Page" style:family="page-layout"><style:page-layout-properties fo:page-width="8.27in" fo:page-height="11.69in" fo:margin-top="0.78in" fo:margin-bottom="0.78in" fo:margin-left="0.85in" fo:margin-right="0.85in" style:print-orientation="portrait"/><style:header-style/><style:footer-style/></style:page-layout-properties></style:page-layout></office:automatic-styles>
+<office:master-styles><style:master-page style:name="Standard" style:page-layout-name="Page"><style:header><text:p text:style-name="small">IES JOAN RAMIS I RAMIS · PLANTILLES ADMINISTRATIVES</text:p></style:header><style:footer><text:p text:style-name="small">Model editable · Revisau les dades entre claudàtors abans d’imprimir</text:p></style:footer></style:master-page></office:master-styles>
+<office:body><office:text><text:p text:style-name="Title">CONTRACTE PRIVAT</text:p><text:p text:style-name="Sub">DE COMPRAVENDA D’HABITATGE</text:p><text:p text:style-name="section">REUNITS</text:p>
+<text:p text:style-name="body">D’una part, [nom i llinatges de la part venedora], major d’edat, amb DNI/NIE [número] i domicili a [adreça], d’ara endavant, LA PART VENEDORA.</text:p>
+<text:p text:style-name="body">De l’altra, [nom i llinatges de la part compradora], major d’edat, amb DNI/NIE [número] i domicili a [adreça], d’ara endavant, LA PART COMPRADORA.</text:p>
+<text:p text:style-name="body">Ambdues parts es reconeixen capacitat legal suficient i</text:p>
+<text:p text:style-name="call">ACORDEN</text:p>
+<text:p text:style-name="body">PRIMERA. Objecte. La part venedora ven i la part compradora compra l’habitatge situat a [adreça completa], municipi de [municipi], amb referència cadastral [referència], i amb els annexos i elements que s’hi descriuen: [descripció].</text:p>
+<text:p text:style-name="body">SEGONA. Titularitat i situació. La part venedora manifesta que és titular de l’immoble i declara que la situació registral, les càrregues, els arrendaments i les possibles limitacions són: [detallar i acreditar]. S’adjuntarà la documentació registral i cadastral actualitzada.</text:p>
+<text:p text:style-name="body">TERCERA. Preu i pagament. El preu total pactat és de [import] euros ([import en lletres]). La forma, el calendari i els justificants de pagament seran: [detallar]. Si hi ha quantitats lliurades a compte, se n’indicaran l’import i les condicions: [detallar].</text:p>
+<text:p text:style-name="body">QUARTA. Lliurament i despeses. La data de lliurament de claus serà [data]. Les parts determinaran per escrit el repartiment de les despeses, tributs i subministraments d’acord amb la normativa aplicable: [detallar].</text:p>
+<text:p text:style-name="body">CINQUENA. Escriptura pública. Les parts es comprometen a formalitzar, si escau, l’escriptura pública davant notari/ària el dia [data o termini], aportant la documentació necessària.</text:p>
+<text:p text:style-name="body">SISENA. Documentació i acords. S’incorporen com a annexos [llista]. Qualsevol modificació d’aquest contracte haurà de constar per escrit i estar signada per ambdues parts.</text:p>
+<text:p text:style-name="body">I, com a prova de conformitat, les parts signen aquest document per duplicat, al lloc i en la data indicats.</text:p>
+<text:p text:style-name="right">A [localitat], el [dia] de [mes] de [any].</text:p>
+<text:p text:style-name="center">LA PART VENEDORA                         LA PART COMPRADORA</text:p>
+<text:p text:style-name="center">[Signatura]                                           [Signatura]</text:p>
+<text:p text:style-name="center">[Nom i llinatges]                              [Nom i llinatges]</text:p>
+<text:p text:style-name="small">Model acadèmic. Abans d’utilitzar-lo en una operació real, cal revisió professional i comprovació de la situació registral, fiscal i urbanística.</text:p></office:text></office:body></office:document>
