@@ -15,11 +15,12 @@ Carpeta: [Ubuntu/WPS Office/Exercici 4](Ubuntu/WPS%20Office/Exercici%204/)
 ## Exercici 5 — OpenOffice (Windows) – Importació / exportació
 Carpeta: [Windows/OpenOffice/Exercici5](Windows/OpenOffice/Exercici5/)
 
-Plantilles de l’Exercici 3 importades i desades en formats:
-- **.odt** (OpenDocument)
-- **.doc** (Word 97-2003)
-- **.docx** (Word 2007+)
-- **.pdf**
+Plantilles de l’Exercici 3 convertides a .odt / .doc / .docx / .pdf
+
+## Exercici 6 — Microsoft Office (Windows) – Importació / exportació
+Carpeta: [Windows/MicrosoftOffice/Exercici6](Windows/MicrosoftOffice/Exercici6/)
+
+Plantilles de l’Exercici 4 convertides a .doc / .odt / .pdf (i originals .docx)
 
 ```bash
 git clone -b linux-entrega-rehecha https://github.com/igarcia21404-dev/UD2.AO.git
