@@ -1,27 +1,25 @@
-# UD2.AO — Plantilles administratives (LibreOffice)
+# UD2.AO — Plantilles ofimàtiques
 
-Repositori amb les sis plantilles de l'**Exercici 3** en format OpenDocument per a LibreOffice Writer.
+Repositori amb les plantilles dels exercicis de processadors de text (Linux).
 
-## Contingut
-
+## Exercici 3 — LibreOffice Writer (ODT / FODT)
 Carpeta: [Ubuntu/LibreOffice/Exercici 3](Ubuntu/LibreOffice/Exercici%203/)
 
-1. **Anunci** — Ajuntament de Maó: obertura del termini de matriculació (Ceràmica, Música, Dibuix).
-2. **Carta** — IES Joan Ramis i Ramis sol·licita 2 multifuncions a Xerox de Menorca.
-3. **Certificat** — Certificació d'estudis de 1r SMX.
-4. **Circular** — Servei de Recaptació: termini de pagament de l'IBI.
-5. **Citació** — Compareixença per signar documentació del Model 061.
-6. **Contracte** — Model de compravenda d'habitatge.
+6 plantilles administratives:
+- Anunci, Carta, Certificat, Circular, Citació, Contracte
 
-### Formats
-- Fitxers **.fodt** (editables directament)
-- **Plantilles_Administratives_UD2AO.zip** amb els sis documents en **.odt**
+## Exercici 4 — WPS Office (.docx)
+Carpeta: [Ubuntu/WPS Office/Exercici 4](Ubuntu/WPS%20Office/Exercici%204/)
 
-Obriu amb LibreOffice Writer. Per desar definitivament: **Fitxer → Anomena i desa → Text ODF (.odt)**.
+7 plantilles:
+1. Convocatòria de reunió (Club Marítim de Maó)
+2. Curriculum vitae modern
+3. Factura
+4. Sol·licitud / Instància
+5. Document amb dues columnes (estil diari)
+6. Diploma (millor alumne/a 1r SMX)
+7. Document amb imatge de fons (Unsplash)
 
-### Estils i revisió
-- Pàgina A4, marges ~2 cm, tipografia Liberation Sans, títols en color, paràgrafs justificats, interlineat 120%.
-- Capçaleres/peus de pàgina.
-- Revisió ortogràfica en català (Eines → Llengua / F7). Instal·lar diccionari català si cal.
-
-Consulteu el README de la carpeta de l'exercici per a més detalls.
+```bash
+git clone -b linux-entrega-rehecha https://github.com/igarcia21404-dev/UD2.AO.git
+```
